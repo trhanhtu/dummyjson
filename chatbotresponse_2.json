@@ -1,0 +1,6 @@
+{
+    "statusCode": 200,
+    "message": "success",
+    "data": "Hello! I'm your virtual assistant. I can help you with various tasks such as answering questions, providing recommendations, or even just having a friendly chat. Let me know what you need, and I'll do my best to assist you!",
+    "error": ""
+}
