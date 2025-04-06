@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "current": 1,
+        "pageSize": 5,
+        "totalPages": 1,
+        "totalItems": 5
+    },
+    "result": [
+        {
+            "id": 1,
+            "content": "Absolutely stunning quality! Every detail is perfect.",
+            "likes": 10,
+            "podcastTitle": "Podcast Episode 1",
+            "userName": "UserOne",
+            "userAvatar": "https://image.api.playstation.com/cdn/UP2538/CUSA05620_00/aOHmhLhacyxoHI51iZnaEXyfbPn0ygP2.png?w=440&thumb=false",
+            "createdAt": "2025-04-06T10:54:11.251Z",
+            "active": true
+        },
+        {
+            "id": 2,
+            "content": "The quality here is unmatched! Truly impressive work.",
+            "likes": 20,
+            "podcastTitle": "Podcast Episode 2",
+            "userName": "UserTwo",
+            "userAvatar": "https://toigingiuvedep.vn/wp-content/uploads/2022/11/avatar-ngau-cool-nam.jpg",
+            "createdAt": "2025-04-06T11:00:00.000Z",
+            "active": false
+        },
+        {
+            "id": 3,
+            "content": "I'm blown away by the top-notch quality and attention to detail.",
+            "likes": 30,
+            "podcastTitle": "Podcast Episode 3",
+            "userName": "UserThree",
+            "userAvatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYPDogdumpiRGyzyYZZcjOVfdUor3XKkK1Q&s",
+            "createdAt": "2025-04-06T11:15:30.000Z",
+            "active": true
+        },
+        {
+            "id": 4,
+            "content": "Quality that speaks for itself – simply outstanding!",
+            "likes": 40,
+            "podcastTitle": "Podcast Episode 4",
+            "userName": "UserFour",
+            "userAvatar": "https://i.pinimg.com/236x/cf/8b/1e/cf8b1e75e0a7175f497083ac42c59793.jpg",
+            "createdAt": "2025-04-06T11:30:00.000Z",
+            "active": false
+        },
+        {
+            "id": 5,
+            "content": "The craftsmanship here is next-level. Incredible quality!",
+            "likes": 50,
+            "podcastTitle": "Podcast Episode 5",
+            "userName": "UserFive",
+            "userAvatar": "https://hypixel.net/attachments/2065799/",
+            "createdAt": "2025-04-06T11:45:00.000Z",
+            "active": true
+        }
+    ]
+}

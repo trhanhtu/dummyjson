@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "current": 1,
+        "pageSize": 5,
+        "totalPages": 1,
+        "totalItems": 5
+    },
+    "result": [
+        {
+            "id": 1,
+            "title": "Periodic Table Podcast - Hydrogen",
+            "audioUrl": "https://file-examples.com/wp-content/storage/2017/11/file_example_MP3_1MG.mp3",
+            "transcript": "In this episode, we explore Hydrogen, the lightest and most abundant element in the universe.",
+            "element": "Hydrogen",
+            "active": true
+        },
+        {
+            "id": 2,
+            "title": "Periodic Table Podcast - Helium",
+            "audioUrl": "https://file-examples.com/wp-content/storage/2017/11/file_example_MP3_1MG.mp3",
+            "transcript": "Discover the fascinating properties of Helium and its vital role in scientific research.",
+            "element": "Helium",
+            "active": true
+        },
+        {
+            "id": 3,
+            "title": "Periodic Table Podcast - Lithium",
+            "audioUrl": "https://file-examples.com/wp-content/storage/2017/11/file_example_MP3_1MG.mp3",
+            "transcript": "This episode delves into Lithium, highlighting its use in batteries and modern technology.",
+            "element": "Lithium",
+            "active": true
+        },
+        {
+            "id": 4,
+            "title": "Periodic Table Podcast - Beryllium",
+            "audioUrl": "https://file-examples.com/wp-content/storage/2017/11/file_example_MP3_1MG.mp3",
+            "transcript": "Explore Beryllium and learn why its unique properties make it essential in aerospace applications.",
+            "element": "Beryllium",
+            "active": true
+        },
+        {
+            "id": 5,
+            "title": "Periodic Table Podcast - Boron",
+            "audioUrl": "https://file-examples.com/wp-content/storage/2017/11/file_example_MP3_1MG.mp3",
+            "transcript": "Join us as we discuss Boron, focusing on its remarkable role in both chemistry and industry.",
+            "element": "Boron",
+            "active": true
+        }
+    ]
+}
